@@ -40,13 +40,17 @@ Insights-Driven: Recommendations based on data, e.g., "Target 35-44 age group fo
 # Tech Stack
 
 Power BI Desktop: Core tool for modeling and visualization.
+
 DAX: Custom measures (e.g., time intelligence, customer metrics).
+
 Power Query: Data cleaning and transformation.
+
 Data Sources: 7 CSV files (sales, products, customers, stores, employees, calendar, inventory).
 
 # Key Insights & Recommendations
 
 Insights: 
+
 Revenue peaks in April ($501K); 
 
 Mornings drive 55% of daily sales; loyal customers (with a 99.51% repeat rate) contribute 62% of the profit from the 35-44 age group.
