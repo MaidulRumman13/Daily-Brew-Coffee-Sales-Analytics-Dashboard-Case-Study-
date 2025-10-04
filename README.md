@@ -28,7 +28,7 @@ Final Insights Page: Descriptive analysis with trends, anomalies, and recommenda
 
 Sales Analysis: Monthly trends, time-of-day revenue ($2.355K morning peak), YoY growth (90.14%).
 Promo, Store & Product Analysis: Promo impact (0.69%), store maps, top products (Sustainably Grown Organic: $1.07M).
-Customer Insight: Repeat customers (99.51%), age group profit (35-44: 62%), gender distribution.
+Customer Insight: Repeat customers (99.51%), age group profit (35-44: 62%), and gender distribution.
 Employee Insights: Top performer (Britanni Jorden: $0.5M), tenure vs. sales scatter plot.
 Insights & Recommendations: Bullet-point analysis with strategic advice (e.g., optimize morning shifts).
 
@@ -46,13 +46,17 @@ Data Sources: 7 CSV files (sales, products, customers, stores, employees, calend
 
 # Key Insights & Recommendations
 
-Insights: Revenue peaks in April ($501K); mornings drive 55% of daily sales; loyal customers (99.51% repeat) contribute 62% profit from 35-44 age group.
-Trends/Anomalies: Promo sales inconsistent (peak July, dip after); high waste in slow products (e.g., Almond Croissant: 10+ days to sell).
+Insights: 
+Revenue peaks in April ($501K); 
 
-# Recommendations:
+Mornings drive 55% of daily sales; loyal customers (with a 99.51% repeat rate) contribute 62% of the profit from the 35-44 age group.
 
-Adjust morning shifts for 15% revenue uplift.
+Trends/Anomalies: Promo sales are inconsistent (peaking in July, dipping after); high waste in slow-moving products (e.g., Almond Croissant: 10+ days to sell).
+
+Recommendations:
+
+Adjust morning shifts for a 15% revenue uplift.
 
 Target promos to loyal customers via bundles (coffee + bakery).
 
-Replicate top store (100 Church St) model for expansion.
+Replicate the top store (100 Church St) model for expansion.
