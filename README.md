@@ -1,6 +1,6 @@
-#Daily Brew Coffee Sales Analytics Dashboard (Case Study)
+# Daily Brew Coffee Sales Analytics Dashboard (Case Study)
 
-#Overview
+# Overview
 This project is a case study simulation for Daily Brew Coffee Ltd., a fast-growing NYC coffee chain operating 15+ outlets. As described in the assignment, the company collects massive transaction data but struggles with "data chaos"—making decisions based on feelings rather than facts. In this case study, I step in as Junior BI Analyst to build an interactive 5-page Power BI dashboard that delivers clarity: answering Rachel's key questions like monthly performance, top stores/products, promo impact, loyal customers, peak times, staff performance, and basket size.
 The dashboard reveals $4.25M revenue, 99.51% loyalty, and opportunities like 15% uplift from morning staffing. It transforms raw data into meaning, aligning with the case's mission: "Stop guessing, start knowing."
 Live Demo: View on Power BI
@@ -22,7 +22,7 @@ Key Questions Addressed:
 
 Final Insights Page: Descriptive analysis with trends, anomalies, and recommendations (e.g., "Adjust morning shifts for 15% revenue gain").
 
-#Features
+# Features
 
     5 Interactive Pages:
 
@@ -37,19 +37,19 @@ Key DAX Measures: Total Sales, YoY Growth %, Promo Sales %, Repeat Customers %, 
 Visuals: Maps, line/bar charts, gauges, scatter plots, slicers for year/store filtering.
 Insights-Driven: Recommendations based on data, e.g., "Target 35-44 age group for 20% retention boost."
 
-#Tech Stack
+# Tech Stack
 
 Power BI Desktop: Core tool for modeling and visualization.
 DAX: Custom measures (e.g., time intelligence, customer metrics).
 Power Query: Data cleaning and transformation.
 Data Sources: 7 CSV files (sales, products, customers, stores, employees, calendar, inventory).
 
-#Key Insights & Recommendations
+# Key Insights & Recommendations
 
 Insights: Revenue peaks in April ($501K); mornings drive 55% of daily sales; loyal customers (99.51% repeat) contribute 62% profit from 35-44 age group.
 Trends/Anomalies: Promo sales inconsistent (peak July, dip after); high waste in slow products (e.g., Almond Croissant: 10+ days to sell).
 
-#Recommendations:
+# Recommendations:
 
 Adjust morning shifts for 15% revenue uplift.
 Target promos to loyal customers via bundles (coffee + bakery).
