@@ -52,5 +52,7 @@ Trends/Anomalies: Promo sales inconsistent (peak July, dip after); high waste in
 # Recommendations:
 
 Adjust morning shifts for 15% revenue uplift.
+
 Target promos to loyal customers via bundles (coffee + bakery).
+
 Replicate top store (100 Church St) model for expansion.
